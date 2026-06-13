@@ -77,7 +77,7 @@ Requisitos previos
 Asegúrate de tener instalado Python 3.10 o superior y el gestor de paquetes pip.
 
 Paso 1: Clonar el repositorio
-git clone https://github.com/AndrésFelipeMancilla/Proyecto-Final-POO.git
+git clone https://github.com/AndresFelipeMancilla/Proyecto-Final-POO.git
 cd Proyecto-Final-POO
 
 Paso 2: Instalar las dependencias externas
