@@ -1,0 +1,4 @@
+yt-dlp
+rich
+pytest
+ffmpeg-downloader

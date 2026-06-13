@@ -1,0 +1,21 @@
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+# Entornos Virtuales
+env/
+venv/
+.env/
+# Archivos de Configuración de Editores y Sistema
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+# Carpetas de datos y binarios externos
+Descargas/
+ffmpeg
+ffplay
+ffprobe
+*.zip
