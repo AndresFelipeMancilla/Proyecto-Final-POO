@@ -92,7 +92,7 @@ Para iniciar el descargador interactivo, corre:
 python app/main.py
 
 Pruebas unitarias
-Hemos implementado una robusta suite de pruebas utilizando pytest para asegurar el correcto funcionamiento de las validaciones y procesos lógicos de la aplicación.
+Se implemento una robusta suite de pruebas utilizando pytest para asegurar el correcto funcionamiento de las validaciones y procesos lógicos de la aplicación.
 Para ejecutar las pruebas y verificar la integridad del código, usa:
 pytest
 
@@ -105,7 +105,7 @@ Capturas de pantalla
 5. Repositorio en GitHub: docs/capturas/captura_github.png
 
 Autor
-Andrés Felipe Mancilla Santiago - Desarrollo de Software en Solitario
+Andrés Felipe Mancilla Santiago - Desarrollo de Software
 
 Licencia
 Este proyecto se encuentra bajo la Licencia MIT. Para más información, ver el archivo LICENSE.
